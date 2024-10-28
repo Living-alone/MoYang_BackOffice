@@ -14,8 +14,17 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
     "core-js": "^3.25.3",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.3",
+    "nodemailer": "^6.9.16",
     "nuxt": "^2.15.8",
+    "sequelize": "^6.37.5",
+    "sequelize-cli": "^6.6.2",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
